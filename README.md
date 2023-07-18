@@ -2,4 +2,4 @@
 
 Used Rapid API,
 Redux RTK Query and Tailwind CSS
-Thanks to Javascrip Mastery
+Thanks to Javascript Mastery
